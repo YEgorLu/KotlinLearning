@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Send Intent App</string>
+    <string name="hint">Передай меня в новое окно</string>
+    <string name="button_text">Передать</string>
+</resources>
